@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/igorx8">
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorx8&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorx8&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorx8&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
  <div style="display: inline_block"><br>
